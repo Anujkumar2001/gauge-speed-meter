@@ -10,6 +10,9 @@ A lightweight and customizable React component to display a speed meter, such as
 
 You can install the package using npm, yarn, or pnpm:
 
+## Demo
+["https://thepingtest.com/"]
+
 ### Using npm:
 ```bash
 npm i gauge-speed-meter

@@ -1,12 +1,11 @@
 {
   "name": "gauge-speed-meter",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "A reusable gauge speed meter component for React.",
   "main": "dist/internet-speed-gauge.umd.js",
   "module": "dist/internet-speed-gauge.es.js",
   "types": "dist/index.d.ts",
   "type": "module",
-
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
@@ -40,11 +39,11 @@
     "typescript-eslint": "^8.15.0",
     "vite": "^6.0.1"
   },
- "files": [
-  "dist",
-  "assets",
-  "README.md"
-],
+  "files": [
+    "dist",
+    "assets",
+    "README.md"
+  ],
   "keywords": [
     "react",
     "speed gauge meter",
@@ -56,10 +55,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/gauge-speed-meter.git"
+    "url": "https://github.com/Anujkumar2001/gauge-speed-meter.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/gauge-speed-meter/issues"
+    "url": "https://github.com/Anujkumar2001/gauge-speed-meter/issues"
   },
-  "homepage": "https://github.com/yourusername/gauge-speed-meter"
+  "homepage": "https://github.com/Anujkumar2001/gauge-speed-meter"
 }
